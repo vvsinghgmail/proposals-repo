@@ -18,4 +18,4 @@ This repository contains the templates for
     - syntax to use for converting* the document
       $ pandoc -s <sourcedocument> -o <outputdocument>
   
-  *Document from .txt can be converted into .odt, .docx, .pdf, .html, .epub and many more as supported by pandoc
+  *Document from .txt can be converted into .odt, .docx, .pdf, .html, .epub and many more as supported by pandoc https://pandoc.org/MANUAL.html
