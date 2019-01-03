@@ -1,15 +1,45 @@
 ---
-title: PROPOSAL FOR Type of Proposal  for Customer Name or buyer name
+title: PROPOSAL FOR type_of_proposal  FOR CUSTOMER_NAME
+author: author_name; author_name@email;  [keenable.in](http://keenable.in)
 date: 'December 20, 2018'
-author: < author name>, authoname@email
-version: 0.0.0
 ---
 
 ****
+### version: 0.0.0 ###
 
+
+
+## Table Of Contents ##
+
+-   [Executive Summary](#executive-summary)
+-   [Goals & Objectives](#goals-objectives)
+-   [Current IT Infrastructure](#current-it-infrastructure)
+-   [Architecture](#architecture)
+-   [Scope of work (SoW)](#scope-of-work-sow)
+-   [Exclusions/ Out of Scope](#exclusions-out-of-scope)
+-   [Prerequisite](#prerequisite)
+-   [Dependencies](#dependencies)
+-   [ESCALATION MATRIX](#escalation-matrix)
+-   [Call Logging Process](#call-logging-process)
+    -   [Telephonic](#telephonic)
+    -   [Email](#email)
+-   [SLAs](#slas)
+    -   [INITIAL RESPONSE TIME](#initial-response-time)
+-   [Key Assumptions & Expectations](#key-assumptions-expectations)
+-   [Commercials](#commercials)
+-   [Important Terms & Conditions](#important-terms-conditions)
+-   [ACCEPTANCE](#acceptance)
+    -   [\# Annexures \#](#annexures)
+
+##  
+##  
+##  
+##
+	
 # Executive Summary # 
 
 Customer <CUSTOMER NAME>, Noida is looking for a competent open source service partner to manage their spread of infrastructure monitoring. <CUSTOMER NAME> wants to engage with Keen and Able Computers, an expert Open Source Infrastructure Services company  for the support services. The infrastructure  covered under the support services is mentioned further. This document aims at framing the proposed services under a contract i.e. annual maintenance  contract (AMC) for one year. 
+
 
 # Goals & Objectives #
 
@@ -35,19 +65,25 @@ The current high level sow is as:
 
 1. 24x7 monitoring of ABC’s all setup. 
 2. System Monitoring
-  i) CPU,RAM,Disk space,I/O,PING,Zombie process, Disk failure, Read only mode with all basic metrics.
-  ii) System security alerts: unauthorized login attempts, arp spoofing etc
+
+> i) CPU,RAM,Disk space,I/O,PING,Zombie process, Disk failure, Read only mode with all basic metrics.
+> ii) System security alerts: unauthorized login attempts, arp spoofing etc
+
 3. Application Monitoring
-i) Most frequently occurring errors. like 4xx/5xx.
-ii) Concurrent Users
-iii) Web server connection utilizing tracking
-iv) jvm monitoring
-v) java Exception monitoring
+
+> i) Most frequently occurring errors. like 4xx/5xx
+> ii) Concurrent Users
+> iii) Web server connection utilizing tracking
+> iv) jvm monitoring
+> v) java Exception monitoring
+
 4. Database Monitoring
-i) Uptime 			 			
-ii) Replication Status if slave
-iii) User_Connections
-5. Notofication & reporting
+
+> i) Uptime
+> ii) Replication Status if slave
+> iii) User_Connections
+
+5. Notification & reporting
 
 # Exclusions/ Out of Scope #  
 
@@ -71,6 +107,8 @@ iii) User_Connections
 4.
 
 
+|	Note: Prerequisites will be verified through a checklist
+
 # Dependencies #
  
 1. Infrastructure monitoring tool
@@ -90,13 +128,14 @@ iii) User_Connections
 
 Table: 01
 
-
 # Call Logging Process #	
 
-1. Telephonic: Call to Tech Support +91 000 000 000    
-2. Email: support@
+### Telephonic ###
+: 	Call to Tech Support +91 000 000 000 
 
-\\ 
+### Email ###
+: 	support@keenable.in
+
 
 # SLAs #
 
@@ -143,7 +182,11 @@ Table: 01
 |      1.  |          000,000         	    	|      			|  0,000,000	    	|
 
 
- In words: Rs. (exclusive of GST)
+
+In words: Rs. (exclusive of GST)^1^
+
+^1^ 18% Goods & Services Tax
+
 
 # Important Terms & Conditions #
 
@@ -177,7 +220,7 @@ Table: 01
 
 # ACCEPTANCE #  
 
-|  <CUSTOMER NAME> 						     |  KEEN AND ABLE COMPUTERS PLTD.	      |
+|  CUSTOMER NAME 						     |  KEEN AND ABLE COMPUTERS PLTD.	      |
 |  ---------------------------------------------------------------  |  -----------------------------------------------------   |
 |										     |									      |
 |										     |									      |
