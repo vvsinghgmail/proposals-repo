@@ -1,6 +1,6 @@
 ---
 title: PROPOSAL FOR type_of_proposal  FOR CUSTOMER_NAME
-author: author_name; author_name@email;  [keenable.in](http://keenable.in)
+author: author_name; author_name@email;  [kxxxaxxx.in](http://kxxxxxxe.in)
 date: 'December 20, 2018'
 ---
 
@@ -38,7 +38,7 @@ date: 'December 20, 2018'
 	
 # Executive Summary # 
 
-Customer <CUSTOMER NAME>, Noida is looking for a competent open source service partner to manage their spread of infrastructure monitoring. <CUSTOMER NAME> wants to engage with Keen and Able Computers, an expert Open Source Infrastructure Services company  for the support services. The infrastructure  covered under the support services is mentioned further. This document aims at framing the proposed services under a contract i.e. annual maintenance  contract (AMC) for one year. 
+Customer <CUSTOMER NAME>, Noida is looking for a competent open source service partner to manage their spread of infrastructure monitoring. <CUSTOMER NAME> wants to engage with Kxxn and Axxx Cxxxxxxxs, an expert Open Source Infrastructure Services company  for the support services. The infrastructure  covered under the support services is mentioned further. This document aims at framing the proposed services under a contract i.e. annual maintenance  contract (AMC) for one year. 
 
 
 # Goals & Objectives #
@@ -122,9 +122,9 @@ The current high level sow is as:
 
 |  SNO. |		LEVEL	  |		 NAME			|		Contact Email			|    
 |  :-----: | :------------------: | :---------------------------:  	| :--------------------------------------:  	|
-|     1.   |            1             |  JOHN DOE ONE		|  johen.doe@keenable.in	    	|
-|     2 .  |            2             |  JOHN DOE TWO	   	|  johen.doe@keenable.in	    	|
-|     3.   |            3             |  JOHN DOE THREE	   	|  johen.doe@keenable.in	    	|
+|     1.   |            1             |  JOHN DOE ONE		|  johen.doe@kxxxxxxe.in	    	|
+|     2 .  |            2             |  JOHN DOE TWO	   	|  johen.doe@kxxxxxxe.in	    	|
+|     3.   |            3             |  JOHN DOE THREE	   	|  johen.doe@kxxxxxxe.in	    	|
 
 Table: 01
 
@@ -134,7 +134,7 @@ Table: 01
 : 	Call to Tech Support +91 000 000 000 
 
 ### Email ###
-: 	support@keenable.in
+: 	support@kxxxxxxe.in
 
 
 # SLAs #
@@ -152,16 +152,16 @@ Table: 01
 
 1. These estimates are based on preliminary discussions and do not count for any contingencies. 
 2. The mentioned services, activities under SoW are for one year only however services can be extended as per mutual agreements and contract.
-3. Kenable will provide services for 24x7 basis.
-4. Keenable will deploying on-site L1/L2 engineer for monitoring and SOP based operations tasks.
+3. Kxxxxxxe will provide services for 24x7 basis.
+4. Kxxxxxxe will deploying on-site L1/L2 engineer for monitoring and SOP based operations tasks.
 5. The working hours for onsite engineers will be monday to friday during standard business hours at Noida location. In weekdays, resource will be present at <CUSTOMER NAME> Noida office.
 6. Over weekends and in night shift monitoring would be done remotely.
 7. All engineers would be deployed post approval from <CUSTOMER NAME> system team only.
 8. <CUSTOMER NAME> will provide SOP to L1 to execute daily basis task. Eg. Log rotation / backup.
-9. <CUSTOMER NAME> and Keenable both shall designate a coordinator and PMO for the Services to be performed vide the SOW. The coordinators shall interact to get approvals, report progress, discuss and resolve issues, manage meetings, etc. and can escalate issues or ask for clarification to their observations 
-10. Keen and Able’s any planning, execution; implementation will require an approval from designated coordinators from IB.
+9. <CUSTOMER NAME> and Kxxxxxxe both shall designate a coordinator and PMO for the Services to be performed vide the SOW. The coordinators shall interact to get approvals, report progress, discuss and resolve issues, manage meetings, etc. and can escalate issues or ask for clarification to their observations 
+10. Kxxxxxxe’s any planning, execution; implementation will require an approval from designated coordinators from IB.
 11. Adequate skill set  will be ensured to work on the production systems. 
-12. Keen and Able will change the resources incase if resource is not available or has moved out or is not fit to work. 
+12. Kxxxxxxe will change the resources incase if resource is not available or has moved out or is not fit to work. 
 13. <CUSTOMER NAME> to maintain the Linux server, subscription active in order to get latest updates & patches necessary for service delivery, maintenance & troubleshooting. 
 14. The solution is based on deployment under Red Hat Linux environment. 
 15. For virtual systems where underlying hypervisor on non Red Hat then technical known issues arising out of such virtualized environment will be considered out of scope.
@@ -195,13 +195,13 @@ In words: Rs. (exclusive of GST)^1^
 3. Price validity : One Month
 4. Formal Purchase Order to be raised in the name of <K&A> and Once PO is raised, it can’t be cancelled
 5. The mentioned commercials do not include and the price of any software, hardware and  3rd party software or service.
-6. If any services/deliverables are required to be performed which are beyond those mentioned in the SOW, then the Keen and Able shall provide an estimate of cost for performing such services to <CUSTOMER NAME> and shall obtain IB’s prior written approval for such costs. These costs will be invoiced to <CUSTOMER NAME> after completion of work and <CUSTOMER NAME> will pay the invoiced amount within 2 weeks of submission of invoice. 
+6. If any services/deliverables are required to be performed which are beyond those mentioned in the SOW, then the Kxxxxxxe shall provide an estimate of cost for performing such services to <CUSTOMER NAME> and shall obtain IB’s prior written approval for such costs. These costs will be invoiced to <CUSTOMER NAME> after completion of work and <CUSTOMER NAME> will pay the invoiced amount within 2 weeks of submission of invoice. 
 7. The engineers will be available remotely and on-site unless absolutely required and asked by <CUSTOMER NAME>Team.
-8. Onsite Travel by air and stay at a decent hotel preferably near the site will be arranged by <CUSTOMER NAME> in advance for the Keen and Able’s designated resource.
+8. Onsite Travel by air and stay at a decent hotel preferably near the site will be arranged by <CUSTOMER NAME> in advance for the Kxxxxxxe’s designated resource.
 9. <K&A> will provide the Services and Deliverables to <CUSTOMER NAME> as outlined in a SOW incorporating this proposal. Each deliverable in SoW will become binding when signed by both parties and will be governed by the terms and conditions of this proposal.
 10. All necessary authorization to work, primary technical contact and local contact details for <CUSTOMER NAME> must be provided in advance.
-11. <CUSTOMER NAME> will designated Level 2 resources for the purpose of interfacing between IB’s  team and Keen and Able’s resources. 
-12. Reporting & Escalation: All necessary reporting formats and frequency will be mutually agreed, and <CUSTOMER NAME> will provide the escalation matrix for Keen and Able. All such reporting will be done through email, web or phone only. Any meeting requiring face to face discussion outside Delhi NCR, <CUSTOMER NAME> will arrange the travel and stay for Keen and Able’s resource(s). 
+11. <CUSTOMER NAME> will designated Level 2 resources for the purpose of interfacing between IB’s  team and Kxxxxxxe’s resources. 
+12. Reporting & Escalation: All necessary reporting formats and frequency will be mutually agreed, and <CUSTOMER NAME> will provide the escalation matrix for Kxxxxxxe. All such reporting will be done through email, web or phone only. Any meeting requiring face to face discussion outside Delhi NCR, <CUSTOMER NAME> will arrange the travel and stay for Kxxxxxxe’s resource(s). 
 13. <K&A> will not be responsible for the warranty and service issues in any of the HW or SW or 3rd party services which <CUSTOMER NAME> has already procured or purchased or has an ongoing services/support or commercial contract.
 14. Any additional hardware, software and/or communications infrastructure and communication link/channel related usage/ configuration charges incurred for the implementation of this service will be borne entirely by the IB. 
 15. Contract Term is 12 months  or 356 days.
@@ -220,7 +220,7 @@ In words: Rs. (exclusive of GST)^1^
 
 # ACCEPTANCE #  
 
-|  CUSTOMER NAME 						     |  KEEN AND ABLE COMPUTERS PLTD.	      |
+|  CUSTOMER NAME 						     |  Kxxx AND Axxxx Cxxxxxxxs PXxx.	      |
 |  ---------------------------------------------------------------  |  -----------------------------------------------------   |
 |										     |									      |
 |										     |									      |
