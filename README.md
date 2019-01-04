@@ -1,5 +1,5 @@
 # proposals-repo
-## About this document
+## About the documents in this repository
 This document describes the files in repository, their intended use and conversion using pandoc tool
 
 This repository contains the templates for 
