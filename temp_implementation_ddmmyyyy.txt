@@ -1,7 +1,7 @@
 ---
-title: PROPOSAL FOR type_of_proposal  FOR CUSTOMER_NAME
+title: PROPOSAL FOR IMPLEMENTATION  FOR CUSTOMER_NAME
 author: author_name; author_name@email;  [kxxxaxxx.in](http://kxxxxxxe.in)
-date: 'December 20, 2018'
+date: 'January 05, 2018'
 ---
 
 ****
@@ -20,11 +20,9 @@ date: 'December 20, 2018'
 -   [Prerequisite](#prerequisite)
 -   [Dependencies](#dependencies)
 -   [ESCALATION MATRIX](#escalation-matrix)
--   [Call Logging Process](#call-logging-process)
+-   [Tech Support](#tech-support)
     -   [Telephonic](#telephonic)
     -   [Email](#email)
--   [SLAs](#slas)
-    -   [INITIAL RESPONSE TIME](#initial-response-time)
 -   [Key Assumptions & Expectations](#key-assumptions-expectations)
 -   [Commercials](#commercials)
 -   [Important Terms & Conditions](#important-terms-conditions)
@@ -43,9 +41,9 @@ Customer <CUSTOMER NAME>, Noida is looking for a competent open source service p
 
 # Goals & Objectives #
 
-Primary goal to optimize the uptime of open source infrastructure by resolving issues arising by proactive monitoring
+Primary goal to install the below servers and handover the production ready setup to customer IT team
 
-# Current IT Infrastructure #
+# Planned IT Infrastructure #
 
 -   Total 05 Physical Servers with Linux
 
@@ -63,27 +61,15 @@ Captures the high level design diagram
 
 The current high level sow is as:
 
-1. 24x7 monitoring of ABC’s all setup. 
-2. System Monitoring
-
-> i) CPU,RAM,Disk space,I/O,PING,Zombie process, Disk failure, Read only mode with all basic metrics.
-> ii) System security alerts: unauthorized login attempts, arp spoofing etc
-
-3. Application Monitoring
-
-> i) Most frequently occurring errors. like 4xx/5xx
-> ii) Concurrent Users
-> iii) Web server connection utilizing tracking
-> iv) jvm monitoring
-> v) java Exception monitoring
-
-4. Database Monitoring
-
-> i) Uptime
-> ii) Replication Status if slave
-> iii) User_Connections
-
-5. Notification & reporting
+1. Create a system architecture design document
+2. Install the 3 web Apache servers on OSS linux OS
+3. Install the primary master database server using Postgres
+4. Install the replication slave server using Postgres
+5. Configure the 3 webservers 
+> i) Create access for web server users as per policy
+> ii) Upload web application
+> iii) Configure data sources
+6. Test the entire setup and handover 
 
 # Exclusions/ Out of Scope #  
 
@@ -101,34 +87,35 @@ The current high level sow is as:
 
 # Prerequisite # 
 
-1. System design document including system inventory
+1. 5 server instances (physical or virtual) with linux
 2. Admin Access all the time.
-3.
-4.
+3. Web application archive 
+4. Database structure 
+5. Storage as per size of partitions 
 
 
 |	Note: Prerequisites will be verified through a checklist
 
 # Dependencies #
  
-1. Infrastructure monitoring tool
-2. VPN connection for remote troubleshooting
-3. Dedicated access to the system is required while the service is being performed
-4. Required software packages and Open Source repositories and subsequent release.
+1. Supported hardware for Linux
+2. Dedicated access to the system is required while the service is being performed
+3. Network and Internet access through firewall 
+4. Required software packages and repositories 
 5. Formal approval from <CUSTOMER NAME> Team for any changes on any servers
-6. Incident management tools
+
 
 # ESCALATION MATRIX #
 
 |  SNO. |		LEVEL	  |		 NAME			|		Contact Email			|    
 |  :-----: | :------------------: | :---------------------------:  	| :--------------------------------------:  	|
-|     1.   |            1             |  JOHN DOE ONE		|  johen.doe@kxxxxxxe.in	    	|
-|     2 .  |            2             |  JOHN DOE TWO	   	|  johen.doe@kxxxxxxe.in	    	|
-|     3.   |            3             |  JOHN DOE THREE	   	|  johen.doe@kxxxxxxe.in	    	|
+|     1.   |            1             |  JANE  DOE ONE		|  jane.doe@kxxxxxxe.in	    	|
+|     2 .  |            2             |  JANE DOE TWO	        	|  jane.doe@kxxxxxxe.in	    	|
+|     3.   |            3             |  JANE DOE THREE	   	|  jane.doe@kxxxxxxe.in	    	|
 
 Table: 01
 
-# Call Logging Process #	
+# Tech Support #	
 
 ### Telephonic ###
 : 	Call to Tech Support +91 000 000 000 
@@ -136,16 +123,6 @@ Table: 01
 ### Email ###
 : 	support@kxxxxxxe.in
 
-
-# SLAs #
-
-## INITIAL RESPONSE TIME
-
-|	SEVERITY	  |		 9am-5pm		|		5pm-9am			|    
-| :----------------: | :---------------------------:  	| :--------------------------------------:  	|
-|    P1             	  |  15 minutes			|  john.doe@                  	    	|
-|    P2                |  60 minutes		   	|  john.doe@                   	    	|
-|    P3                |  120 minutes		   	|  john.doe@                   	    	|
 
 
 # Key Assumptions & Expectations #
@@ -191,13 +168,13 @@ In words: Rs. (exclusive of GST)^1^
 # Important Terms & Conditions #
 
 1. Goods and Services Tax Extra. 
-2. Payment terms & schedules:  Quarterly Advance against invoice.
+2. Payment terms & schedules:  25% advance, 50% after installation of all server and 25% after handover or as per set milestoness.
 3. Price validity : One Month
 4. Formal Purchase Order to be raised in the name of <K&A> and Once PO is raised, it can’t be cancelled
 5. The mentioned commercials do not include and the price of any software, hardware and  3rd party software or service.
 6. If any services/deliverables are required to be performed which are beyond those mentioned in the SOW, then the Kxxxxxxe shall provide an estimate of cost for performing such services to <CUSTOMER NAME> and shall obtain IB’s prior written approval for such costs. These costs will be invoiced to <CUSTOMER NAME> after completion of work and <CUSTOMER NAME> will pay the invoiced amount within 2 weeks of submission of invoice. 
 7. The engineers will be available remotely and on-site unless absolutely required and asked by <CUSTOMER NAME>Team.
-8. Onsite Travel by air and stay at a decent hotel preferably near the site will be arranged by <CUSTOMER NAME> in advance for the Kxxxxxxe’s designated resource.
+8. All onsite Travel by air and stay at a decent hotel preferably near the site will be arranged by <CUSTOMER NAME> in advance for the Kxxxxxxe’s designated resource else will be charged extra.
 9. <K&A> will provide the Services and Deliverables to <CUSTOMER NAME> as outlined in a SOW incorporating this proposal. Each deliverable in SoW will become binding when signed by both parties and will be governed by the terms and conditions of this proposal.
 10. All necessary authorization to work, primary technical contact and local contact details for <CUSTOMER NAME> must be provided in advance.
 11. <CUSTOMER NAME> will designated Level 2 resources for the purpose of interfacing between IB’s  team and Kxxxxxxe’s resources. 
@@ -234,7 +211,7 @@ In words: Rs. (exclusive of GST)^1^
 
 
 # Annexures #
--
--
--
+- Pre-requisite sheet
+- Supported Hardware specifications
+- Project contact sheet
 
