@@ -11,9 +11,14 @@ This repository contains the templates for
   - Subscriptions
   - Trainings
   - Body shopping work 
+  
+- Requirements
+  - pandoc should be installed
 
 - How to use the documents
-  - Download the required document templete i.e. .txt files
+  - Download the required document templete i.e. .md files to 
+    - your local git or 
+    - use your github account and download form https://github.com/vvsinghkeenable/proposals-repo 
   - use pandoc command line tool to convert the document i.e pandoc should be installed on your system or use any online conversion tool
     - syntax to use for converting* the document
       $ pandoc -s <sourcedocument> -o <outputdocument>
