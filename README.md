@@ -7,7 +7,7 @@ This repository contains the templates for
   - All projects on Man day basi or man months
   - All project on that requires a bench of team to operate and deliver services
   
-- Quotations
+- Quotations -- Subscriptions & Trainings
   - Subscriptions
   - Trainings
   - Body shopping work 
